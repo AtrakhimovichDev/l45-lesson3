@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     let username = ""
     let password = ""
     let isAdmin = true
+    let isNotificationEnable = true
 
     override func viewDidLoad() {
         super.viewDidLoad()
