@@ -13,6 +13,8 @@ class ViewController: UIViewController {
     let password = ""
     let isAdmin = true
     let isNotificationEnable = true
+    let isDebugMode = true
+    let debugStringDescription = "Debug String"
 
     override func viewDidLoad() {
         super.viewDidLoad()
