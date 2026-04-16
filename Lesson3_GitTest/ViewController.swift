@@ -15,6 +15,7 @@ class ViewController: UIViewController {
     let isNotificationEnable = true
     let isDebugMode = true
     let debugStringDescription = "Debug String"
+    let debugIntDescription = 1
 
     override func viewDidLoad() {
         super.viewDidLoad()
